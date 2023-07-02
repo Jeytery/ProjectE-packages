@@ -30,7 +30,7 @@
           "name": "Table B"
         }
       ],
-      "name": "Sample Package"
+      "name": "Test_test"
     },
      {
       "tasks": [
@@ -62,7 +62,7 @@
           "name": "Table B"
         }
       ],
-      "name": "Sample Package"
+      "name": "Test1"
     }   
   ]
 }
