@@ -4,65 +4,37 @@
       "tasks": [
         {
           "data": {
-            "words": ["Hello", "World"],
-            "answer": "OpenAI"
+            "words": ["apple", "banana", "orange"],
+            "answer": "banana"
           },
           "answerTime": 10
         },
         {
           "data": {
-            "words": ["Swift", "Programming"],
-            "answer": "Coding"
+            "words": ["car", "bus", "train"],
+            "answer": "car"
           },
           "answerTime": 15
         }
       ],
-      "duration": 30,
-      "answerTime": 25,
-      "answerMark": 90,
+      "duration": 60,
+      "answerTime": 30,
+      "answerMark": 80,
       "scoreTables": [
         {
-          "score": 80,
-          "name": "Table A"
+          "score": 100,
+          "name": "bronze"
         },
         {
-          "score": 95,
-          "name": "Table B"
-        }
-      ],
-      "name": "Sample Package"
-    },
-     {
-      "tasks": [
-        {
-          "data": {
-            "words": ["Hello", "World"],
-            "answer": "OpenAI"
-          },
-          "answerTime": 10
+          "score": 200,
+          "name": "silver"
         },
         {
-          "data": {
-            "words": ["Swift", "Programming"],
-            "answer": "Coding"
-          },
-          "answerTime": 15
+          "score": 300,
+          "name": "gold"
         }
       ],
-      "duration": 30,
-      "answerTime": 25,
-      "answerMark": 90,
-      "scoreTables": [
-        {
-          "score": 80,
-          "name": "Table A"
-        },
-        {
-          "score": 95,
-          "name": "Table B"
-        }
-      ],
-      "name": "Sample Package"
-    }   
+      "name": "sample package"
+    }
   ]
 }
