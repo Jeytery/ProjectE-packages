@@ -4,65 +4,71 @@
       "tasks": [
         {
           "data": {
-            "words": ["Hello", "World"],
-            "answer": "OpenAI"
+            "question": "What is the capital of Japan?",
+            "words": ["capital", "Japan"],
+            "answer": "Tokyo"
           },
-          "answerTime": 10
+          "answerTime": 90,
+          "answerMark": 8
         },
         {
           "data": {
-            "words": ["Swift", "Programming"],
-            "answer": "Coding"
+            "question": "Who painted the Mona Lisa?",
+            "words": ["painted", "Mona Lisa"],
+            "answer": "Leonardo da Vinci"
           },
-          "answerTime": 15
+          "answerTime": 120,
+          "answerMark": 10
         }
       ],
-      "duration": 30,
-      "answerTime": 25,
-      "answerMark": 90,
+      "duration": 2400,
+      "answerTime": 60,
+      "answerMark": 6,
       "scoreTables": [
         {
-          "score": 80,
-          "name": "Table A"
+          "score": 95,
+          "name": "Table X"
         },
         {
-          "score": 95,
-          "name": "Table B"
+          "score": 85,
+          "name": "Table Y"
         }
       ],
-      "name": "Test_test"
-    },
-     {
+      "name": "Package 2"
+    }, 
+    {
       "tasks": [
         {
           "data": {
-            "words": ["Hello", "World"],
-            "answer": "OpenAI"
+            "question": "What is the capital of France?",
+            "words": ["capital", "France"],
+            "answer": "Paris"
           },
-          "answerTime": 10
+          "answerTime": 120,
+          "answerMark": 10
         },
         {
           "data": {
-            "words": ["Swift", "Programming"],
-            "answer": "Coding"
-          },
-          "answerTime": 15
+            "question": "Who wrote the play 'Hamlet'?",
+            "words": ["play", "Hamlet"],
+            "answer": "William Shakespeare"
+          }
         }
       ],
-      "duration": 30,
-      "answerTime": 25,
-      "answerMark": 90,
+      "duration": 1800,
+      "answerTime": 60,
+      "answerMark": 5,
       "scoreTables": [
         {
-          "score": 80,
+          "score": 100,
           "name": "Table A"
         },
         {
-          "score": 95,
+          "score": 80,
           "name": "Table B"
         }
       ],
-      "name": "Test1"
-    }   
+      "name": "Package 1"
+    }
   ]
 }
