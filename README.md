@@ -632,7 +632,7 @@
                 }
             ],
             "name": "English infinitives",
-            gameTaskCount: 20
+            "gameTaskCount": 20
         }
     ]
 }
