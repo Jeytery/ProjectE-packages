@@ -1039,7 +1039,6 @@
             "duration": 30,
             "answerTime": 5,
             "answerMark": 10,
-            "gameTaskCount": 20,
             "scoreTables": [
                 {
                     "score": 180,
