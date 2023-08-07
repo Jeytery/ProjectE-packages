@@ -1053,7 +1053,8 @@
                     "name": "Bronze"
                 }
             ],
-            "name": "Europenean capitals"
+            "name": "Europenean capitals",
+            "gameTaskCount": 20
         }
     ]
 }
