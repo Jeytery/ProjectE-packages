@@ -620,19 +620,50 @@
             "scoreTables": [
                 {
                     "score": 90,
-                    "name": "Gold"
+                    "name": "Table A"
                 },
                 {
                     "score": 80,
-                    "name": "Silver"
-                },
-                {
-                    "score": 70,
-                    "name": "Bronze"
+                    "name": "Table B"
                 }
             ],
-            "name": "English infinitives",
-            "gameTaskCount": 20
+            "name": "English infinitives"
+        },
+        {
+            "tasks": [
+                {
+                    "data": {
+                        "question": "Here you see question. Answer and tap blue arrow",
+                        "words": ["this is question tip", "tap on me"],
+                        "answer": "tap on me"
+                    },
+                    "answerTime": 90,
+                    "answerMark": 100
+                },
+                {
+                    "data": {
+                        "question": "2 + 2 = ?",
+                        "words": ["4", "5", "6"],
+                        "answer": "4"
+                    },
+                    "answerTime": 120,
+                    "answerMark": 100
+                }
+            ],
+            "duration": 30,
+            "answerTime": 60,
+            "answerMark": 6,
+            "scoreTables": [
+                {
+                    "score": 200,
+                    "name": "Gold"
+                },
+                {
+                    "score": 100,
+                    "name": "Silver"
+                }
+            ],
+            "name": "Tutorial for application"
         }
     ]
 }
