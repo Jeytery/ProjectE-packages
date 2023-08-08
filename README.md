@@ -633,7 +633,7 @@
                 {
                     "data": {
                         "question": "Capital of Albania",
-                        "words": ["Tirana", "Prague", "Berlin", "Lisbon"],
+                        "words": ["Prague", "Lisbon", "Tirana", "Berlin"],
                         "answer": "Tirana"
                     },
                     "answerTime": 5,
@@ -642,7 +642,7 @@
                 {
                     "data": {
                         "question": "Capital of Andorra",
-                        "words": ["Andorra la Vella", "Vienna", "Riga", "Madrid"],
+                        "words": ["Vienna", "Madrid", "Andorra la Vella", "Riga"],
                         "answer": "Andorra la Vella"
                     },
                     "answerTime": 5,
@@ -651,7 +651,7 @@
                 {
                     "data": {
                         "question": "Capital of Austria",
-                        "words": ["Vienna", "Brussels", "Tallinn", "Rome"],
+                        "words": ["Vienna", "Rome", "Brussels", "Tallinn"],
                         "answer": "Vienna"
                     },
                     "answerTime": 5,
@@ -660,7 +660,7 @@
                 {
                     "data": {
                         "question": "Capital of Belarus",
-                        "words": ["Minsk", "Ljubljana", "Sarajevo", "Vaduz"],
+                        "words": ["Vaduz", "Ljubljana", "Minsk", "Sarajevo"],
                         "answer": "Minsk"
                     },
                     "answerTime": 5,
@@ -669,7 +669,7 @@
                 {
                     "data": {
                         "question": "Capital of Belgium",
-                        "words": ["Brussels", "Bucharest", "Prague", "Amsterdam"],
+                        "words": ["Bucharest", "Prague", "Amsterdam", "Brussels"],
                         "answer": "Brussels"
                     },
                     "answerTime": 5,
@@ -678,7 +678,7 @@
                 {
                     "data": {
                         "question": "Capital of Bosnia and Herzegovina",
-                        "words": ["Sarajevo", "Tallinn", "Ljubljana", "Madrid"],
+                        "words": ["Madrid", "Sarajevo", "Ljubljana", "Tallinn"],
                         "answer": "Sarajevo"
                     },
                     "answerTime": 5,
@@ -687,7 +687,7 @@
                 {
                     "data": {
                         "question": "Capital of Bulgaria",
-                        "words": ["Sofia", "Dublin", "Kyiv", "Riga"],
+                        "words": ["Dublin", "Riga", "Sofia", "Kyiv"],
                         "answer": "Sofia"
                     },
                     "answerTime": 5,
@@ -696,7 +696,7 @@
                 {
                     "data": {
                         "question": "Capital of Croatia",
-                        "words": ["Zagreb", "Berlin", "Vienna", "Copenhagen"],
+                        "words": ["Copenhagen", "Vienna", "Zagreb", "Berlin"],
                         "answer": "Zagreb"
                     },
                     "answerTime": 5,
@@ -705,7 +705,7 @@
                 {
                     "data": {
                         "question": "Capital of Cyprus",
-                        "words": ["Nicosia", "Vilnius", "Andorra la Vella", "Bern"],
+                        "words": ["Vilnius", "Andorra la Vella", "Bern", "Nicosia"],
                         "answer": "Nicosia"
                     },
                     "answerTime": 5,
@@ -714,7 +714,7 @@
                 {
                     "data": {
                         "question": "Capital of Czech Republic",
-                        "words": ["Prague", "Warsaw", "Athens", "Helsinki"],
+                        "words": ["Helsinki", "Athens", "Warsaw", "Prague"],
                         "answer": "Prague"
                     },
                     "answerTime": 5,
@@ -723,7 +723,7 @@
                 {
                     "data": {
                         "question": "Capital of Denmark",
-                        "words": ["Copenhagen", "Rome", "Tirana", "Lisbon"],
+                        "words": ["Tirana", "Copenhagen", "Rome", "Lisbon"],
                         "answer": "Copenhagen"
                     },
                     "answerTime": 5,
@@ -732,7 +732,7 @@
                 {
                     "data": {
                         "question": "Capital of Estonia",
-                        "words": ["Tallinn", "Zagreb", "Bratislava", "Oslo"],
+                        "words": ["Zagreb", "Tallinn", "Oslo", "Bratislava"],
                         "answer": "Tallinn"
                     },
                     "answerTime": 5,
@@ -741,7 +741,7 @@
                 {
                     "data": {
                         "question": "Capital of Finland",
-                        "words": ["Helsinki", "Riga", "Brussels", "Bern"],
+                        "words": ["Helsinki", "Brussels", "Riga", "Bern"],
                         "answer": "Helsinki"
                     },
                     "answerTime": 5,
@@ -750,7 +750,7 @@
                 {
                     "data": {
                         "question": "Capital of France",
-                        "words": ["Paris", "Dublin", "Berlin", "Vienna"],
+                        "words": ["Berlin", "Vienna", "Paris", "Dublin"],
                         "answer": "Paris"
                     },
                     "answerTime": 5,
@@ -759,7 +759,7 @@
                 {
                     "data": {
                         "question": "Capital of Germany",
-                        "words": ["Berlin", "Rome", "Lisbon", "Athens"],
+                        "words": ["Lisbon", "Berlin", "Rome", "Athens"],
                         "answer": "Berlin"
                     },
                     "answerTime": 5,
@@ -768,7 +768,7 @@
                 {
                     "data": {
                         "question": "Capital of Greece",
-                        "words": ["Athens", "Sofia", "Warsaw", "Vilnius"],
+                        "words": ["Vilnius", "Sofia", "Vilnius", "Athens"],
                         "answer": "Athens"
                     },
                     "answerTime": 5,
@@ -777,7 +777,7 @@
                 {
                     "data": {
                         "question": "Capital of Hungary",
-                        "words": ["Budapest", "Copenhagen", "Riga", "Bratislava"],
+                        "words": ["Budapest", "Bratislava", "Riga", "Copenhagen"],
                         "answer": "Budapest"
                     },
                     "answerTime": 5,
@@ -786,7 +786,7 @@
                 {
                     "data": {
                         "question": "Capital of Iceland",
-                        "words": ["Reykjavik", "Bern", "Dublin", "Ljubljana"],
+                        "words": ["Ljubljana", "Dublin", "Reykjavik", "Bern"],
                         "answer": "Reykjavik"
                     },
                     "answerTime": 5,
@@ -795,7 +795,7 @@
                 {
                     "data": {
                         "question": "Capital of Ireland",
-                        "words": ["Dublin", "Rome", "Prague", "Vilnius"],
+                        "words": ["Prague", "Rome", "Dublin", "Vilnius"],
                         "answer": "Dublin"
                     },
                     "answerTime": 5,
@@ -804,7 +804,7 @@
                 {
                     "data": {
                         "question": "Capital of Italy",
-                        "words": ["Rome", "Sofia", "Helsinki", "Copenhagen"],
+                        "words": ["Helsinki", "Rome", "Copenhagen", "Sofia"],
                         "answer": "Rome"
                     },
                     "answerTime": 5,
@@ -813,7 +813,7 @@
                 {
                     "data": {
                         "question": "Capital of Kosovo",
-                        "words": ["Pristina", "Zagreb", "Lisbon", "Warsaw"],
+                        "words": ["Zagreb", "Warsaw", "Pristina", "Lisbon"],
                         "answer": "Pristina"
                     },
                     "answerTime": 5,
@@ -822,7 +822,7 @@
                 {
                     "data": {
                         "question": "Capital of Latvia",
-                        "words": ["Riga", "Tallinn", "Vilnius", "Sarajevo"],
+                        "words": ["Vilnius", "Riga", "Sarajevo", "Tallinn"],
                         "answer": "Riga"
                     },
                     "answerTime": 5,
@@ -831,7 +831,7 @@
                 {
                     "data": {
                         "question": "Capital of Liechtenstein",
-                        "words": ["Vaduz", "Andorra la Vella", "Ljubljana", "Monaco"],
+                        "words": ["Andorra la Vella", "Vaduz", "Ljubljana", "Monaco"],
                         "answer": "Vaduz"
                     },
                     "answerTime": 5,
@@ -840,7 +840,7 @@
                 {
                     "data": {
                         "question": "Capital of Lithuania",
-                        "words": ["Vilnius", "Kyiv", "Bratislava", "Zagreb"],
+                        "words": ["Kyiv", "Bratislava", "Zagreb", "Vilnius"],
                         "answer": "Vilnius"
                     },
                     "answerTime": 5,
@@ -849,7 +849,7 @@
                 {
                     "data": {
                         "question": "Capital of Luxembourg",
-                        "words": ["Luxembourg City", "Tirana", "Copenhagen", "Bern"],
+                        "words": ["Bern", "Copenhagen", "Luxembourg City", "Tirana"],
                         "answer": "Luxembourg City"
                     },
                     "answerTime": 5,
@@ -858,7 +858,7 @@
                 {
                     "data": {
                         "question": "Capital of Malta",
-                        "words": ["Valletta", "Prague", "Dublin", "Riga"],
+                        "words": ["Prague", "Dublin", "Valletta", "Riga"],
                         "answer": "Valletta"
                     },
                     "answerTime": 5,
@@ -867,7 +867,7 @@
                 {
                     "data": {
                         "question": "Capital of Moldova",
-                        "words": ["Chisinau", "Budapest", "Sofia", "Vilnius"],
+                        "words": ["Vilnius", "Chisinau", "Sofia", "Budapest"],
                         "answer": "Chisinau"
                     },
                     "answerTime": 5,
@@ -876,7 +876,7 @@
                 {
                     "data": {
                         "question": "Capital of Monaco",
-                        "words": ["Monaco", "Vienna", "Prague", "Andorra la Vella"],
+                        "words": ["Prague", "Monaco", "Vienna", "Andorra la Vella"],
                         "answer": "Monaco"
                     },
                     "answerTime": 5,
@@ -885,7 +885,7 @@
                 {
                     "data": {
                         "question": "Capital of Montenegro",
-                        "words": ["Podgorica", "Riga", "Warsaw", "Bucharest"],
+                        "words": ["Warsaw", "Podgorica", "Riga", "Bucharest"],
                         "answer": "Podgorica"
                     },
                     "answerTime": 5,
@@ -894,7 +894,7 @@
                 {
                     "data": {
                         "question": "Capital of Netherlands",
-                        "words": ["Amsterdam", "Brussels", "Helsinki", "Sofia"],
+                        "words": ["Helsinki", "Brussels", "Sofia", "Amsterdam"],
                         "answer": "Amsterdam"
                     },
                     "answerTime": 5,
@@ -903,7 +903,7 @@
                 {
                     "data": {
                         "question": "Capital of North Macedonia",
-                        "words": ["Skopje", "Ljubljana", "Tallinn", "Rome"],
+                        "words": ["Rome", "Skopje", "Ljubljana", "Tallinn"],
                         "answer": "Skopje"
                     },
                     "answerTime": 5,
@@ -921,7 +921,7 @@
                 {
                     "data": {
                         "question": "Capital of Poland",
-                        "words": ["Warsaw", "Bratislava", "Copenhagen", "Tallinn"],
+                        "words": ["Tallinn", "Copenhagen", "Warsaw", "Bratislava"],
                         "answer": "Warsaw"
                     },
                     "answerTime": 5,
@@ -930,7 +930,7 @@
                 {
                     "data": {
                         "question": "Capital of Portugal",
-                        "words": ["Lisbon", "Athens", "Riga", "Helsinki"],
+                        "words": ["Riga", "Helsinki", "Lisbon", "Athens"],
                         "answer": "Lisbon"
                     },
                     "answerTime": 5,
@@ -939,7 +939,7 @@
                 {
                     "data": {
                         "question": "Capital of Romania",
-                        "words": ["Bucharest", "Sofia", "Prague", "Tirana"],
+                        "words": ["Tirana", "Bucharest", "Sofia", "Prague"],
                         "answer": "Bucharest"
                     },
                     "answerTime": 5,
@@ -948,7 +948,7 @@
                 {
                     "data": {
                         "question": "Capital of Russia",
-                        "words": ["Moscow", "Vienna", "Helsinki", "Lisbon"],
+                        "words": ["Helsinki", "Vienna", "Lisbon", "Moscow"],
                         "answer": "Moscow"
                     },
                     "answerTime": 5,
@@ -957,7 +957,7 @@
                 {
                     "data": {
                         "question": "Capital of San Marino",
-                        "words": ["San Marino", "Andorra la Vella", "Vaduz", "Monaco"],
+                        "words": ["Monaco", "Vaduz", "San Marino", "Andorra la Vella"],
                         "answer": "San Marino"
                     },
                     "answerTime": 5,
@@ -966,7 +966,7 @@
                 {
                     "data": {
                         "question": "Capital of Serbia",
-                        "words": ["Belgrade", "Bratislava", "Bern", "Dublin"],
+                        "words": ["Dublin", "Belgrade", "Bratislava", "Bern"],
                         "answer": "Belgrade"
                     },
                     "answerTime": 5,
@@ -975,7 +975,7 @@
                 {
                     "data": {
                         "question": "Capital of Slovakia",
-                        "words": ["Bratislava", "Tirana", "Vaduz", "Helsinki"],
+                        "words": ["Helsinki", "Vaduz", "Bratislava", "Tirana"],
                         "answer": "Bratislava"
                     },
                     "answerTime": 5,
@@ -984,7 +984,7 @@
                 {
                     "data": {
                         "question": "Capital of Slovenia",
-                        "words": ["Ljubljana", "Copenhagen", "Vienna", "Sofia"],
+                        "words": ["Vienna", "Copenhagen", "Ljubljana", "Sofia"],
                         "answer": "Ljubljana"
                     },
                     "answerTime": 5,
@@ -993,7 +993,7 @@
                 {
                     "data": {
                         "question": "Capital of Spain",
-                        "words": ["Madrid", "Riga", "Athens", "Berlin"],
+                        "words": ["Riga", "Berlin", "Madrid", "Athens"],
                         "answer": "Madrid"
                     },
                     "answerTime": 5,
@@ -1002,7 +1002,7 @@
                 {
                     "data": {
                         "question": "Capital of Sweden",
-                        "words": ["Stockholm", "Kyiv", "Budapest", "Prague"],
+                        "words": ["Prague", "Budapest", "Kyiv", "Stockholm"],
                         "answer": "Stockholm"
                     },
                     "answerTime": 5,
@@ -1011,7 +1011,7 @@
                 {
                     "data": {
                         "question": "Capital of Switzerland",
-                        "words": ["Bern", "Lisbon", "Amsterdam", "Helsinki"],
+                        "words": ["Lisbon", "Helsinki", "Bern", "Amsterdam"],
                         "answer": "Bern"
                     },
                     "answerTime": 5,
@@ -1020,7 +1020,7 @@
                 {
                     "data": {
                         "question": "Capital of Ukraine",
-                        "words": ["Kyiv", "Vilnius", "Copenhagen", "Dublin"],
+                        "words": ["Copenhagen", "Kyiv", "Vilnius", "Dublin"],
                         "answer": "Kyiv"
                     },
                     "answerTime": 5,
@@ -1029,14 +1029,14 @@
                 {
                     "data": {
                         "question": "Capital of United Kingdom",
-                        "words": ["London", "Bern", "Oslo", "Prague"],
+                        "words": ["Oslo", "Prague", "Bern", "London"],
                         "answer": "London"
                     },
                     "answerTime": 5,
                     "answerMark": 10
                 }
             ],
-            "duration": 30,
+            "duration": 5,
             "answerTime": 5,
             "answerMark": 10,
             "scoreTables": [
@@ -1045,12 +1045,12 @@
                     "name": "Gold"
                 },
                 {
-                    "score": 150,
+                    "score": 160,
                     "name": "Silver"
                 },
                 {
-                    "score": 100,
-                    "name": "Bronze"
+                    "score": 140,
+                    "name": "Silver"
                 }
             ],
             "name": "Europenean capitals",
