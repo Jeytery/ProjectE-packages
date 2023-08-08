@@ -768,7 +768,7 @@
                 {
                     "data": {
                         "question": "Capital of Greece",
-                        "words": ["Vilnius", "Sofia", "Vilnius", "Athens"],
+                        "words": ["Vilnius", "Sofia", "Bratislava", "Athens"],
                         "answer": "Athens"
                     },
                     "answerTime": 5,
