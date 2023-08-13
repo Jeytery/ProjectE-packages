@@ -4,40 +4,6 @@
             "tasks": [
                 {
                     "data": {
-                        "question": "What is the capital of France?",
-                        "words": ["Berlin", "Kyiv", "Paris"],
-                        "answer": "Paris"
-                    },
-                    "answerTime": 120,
-                    "answerMark": 10
-                },
-                {
-                    "data": {
-                        "question": "Who wrote the play 'Hamlet'?",
-                        "words": ["play", "Hamlet", "William Shakespeare"],
-                        "answer": "William Shakespeare"
-                    }
-                }
-            ],
-            "duration": 1800,
-            "answerTime": 60,
-            "answerMark": 5,
-            "scoreTables": [
-                {
-                    "score": 100,
-                    "name": "Table A"
-                },
-                {
-                    "score": 80,
-                    "name": "Table B"
-                }
-            ],
-            "name": "Test package"
-        },
-        {
-            "tasks": [
-                {
-                    "data": {
                         "question": "Run",
                         "words": ["infinitive", "bare infinitive", "gerund"],
                         "answer": "bare infinitive"
