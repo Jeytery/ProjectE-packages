@@ -4,559 +4,294 @@
             "tasks": [
                 {
                     "data": {
-                        "question": "Run",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Enjoy",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
                     },
-                    "answerTime": 30,
-                    "answerMark": 8
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Help",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Like",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
                     },
-                    "answerTime": 45,
-                    "answerMark": 9
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
                         "question": "Love",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
+                        "words": ["infinitive", "gerund"],
                         "answer": "gerund"
                     },
-                    "answerTime": 40,
-                    "answerMark": 9
-                },
-                {
-                    "data": {
-                        "question": "Read",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "infinitive"
-                    },
-                    "answerTime": 35,
-                    "answerMark": 7
-                },
-                {
-                    "data": {
-                        "question": "Cook",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 30,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "Play",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 25,
-                    "answerMark": 7
-                },
-                {
-                    "data": {
-                        "question": "Swim",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 30,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "Write",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 35,
-                    "answerMark": 7
-                },
-                {
-                    "data": {
-                        "question": "Dance",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 30,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "Sleep",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 25,
-                    "answerMark": 7
-                },
-                {
-                    "data": {
-                        "question": "Admit",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 30,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "Appreciate",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "gerund"
-                    },
-                    "answerTime": 35,
-                    "answerMark": 9
-                },
-                {
-                    "data": {
-                        "question": "Avoid",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "gerund"
-                    },
-                    "answerTime": 40,
-                    "answerMark": 9
-                },
-                {
-                    "data": {
-                        "question": "Consider",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "gerund"
-                    },
-                    "answerTime": 45,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "Delay",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "gerund"
-                    },
-                    "answerTime": 40,
-                    "answerMark": 7
-                },
-                {
-                    "data": {
-                        "question": "Deny",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 35,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "Enjoy",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "gerund"
-                    },
-                    "answerTime": 30,
-                    "answerMark": 9
-                },
-                {
-                    "data": {
-                        "question": "Finish",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 25,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "Imagine",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 30,
-                    "answerMark": 7
-                },
-                {
-                    "data": {
-                        "question": "Mind",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "gerund"
-                    },
-                    "answerTime": 35,
-                    "answerMark": 9
-                },
-                {
-                    "data": {
-                        "question": "Miss",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "gerund"
-                    },
-                    "answerTime": 40,
-                    "answerMark": 9
-                },
-                {
-                    "data": {
-                        "question": "Postpone",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 45,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "Practice",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "gerund"
-                    },
-                    "answerTime": 40,
-                    "answerMark": 7
-                },
-                {
-                    "data": {
-                        "question": "Quit",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "infinitive"
-                    },
-                    "answerTime": 35,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "Risk",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "gerund"
-                    },
-                    "answerTime": 30,
-                    "answerMark": 9
-                },
-                {
-                    "data": {
-                        "question": "Suggest",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 25,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "Understand",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "infinitive"
-                    },
-                    "answerTime": 30,
-                    "answerMark": 7
-                },
-                {
-                    "data": {
-                        "question": "Anticipate",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "gerund"
-                    },
-                    "answerTime": 35,
-                    "answerMark": 9
-                },
-                {
-                    "data": {
-                        "question": "Complete",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 40,
-                    "answerMark": 9
-                },
-                {
-                    "data": {
-                        "question": "Discuss",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 45,
-                    "answerMark": 8
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
                         "question": "Hate",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
                     },
-                    "answerTime": 40,
-                    "answerMark": 7
+                    "answerTime": 10,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Start",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
+                    },
+                    "answerTime": 10,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Begin",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
+                    },
+                    "answerTime": 10,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Continue",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
+                    },
+                    "answerTime": 10,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Finish",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
+                    },
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
                         "question": "Keep",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 35,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "Love",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
+                        "words": ["infinitive", "gerund"],
                         "answer": "gerund"
                     },
-                    "answerTime": 30,
-                    "answerMark": 9
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Praise",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
+                        "question": "Avoid",
+                        "words": ["infinitive", "gerund"],
                         "answer": "gerund"
                     },
-                    "answerTime": 25,
-                    "answerMark": 8
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Recommend",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Admit",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
                     },
-                    "answerTime": 30,
-                    "answerMark": 7
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Can",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Consider",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
                     },
-                    "answerTime": 25,
-                    "answerMark": 8
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Could",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Imagine",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
                     },
-                    "answerTime": 30,
-                    "answerMark": 7
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Shall",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Delay",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
                     },
-                    "answerTime": 35,
-                    "answerMark": 8
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Should",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Suggest",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
                     },
-                    "answerTime": 40,
-                    "answerMark": 9
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Will",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Mention",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
                     },
-                    "answerTime": 35,
-                    "answerMark": 8
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Would",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Appreciate",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
                     },
-                    "answerTime": 30,
-                    "answerMark": 7
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Must",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Mind",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
                     },
-                    "answerTime": 35,
-                    "answerMark": 8
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "May",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Can't stand",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
                     },
-                    "answerTime": 30,
-                    "answerMark": 7
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Might",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Look forward to",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "gerund"
                     },
-                    "answerTime": 35,
-                    "answerMark": 8
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Let",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Plan",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "infinitive"
                     },
-                    "answerTime": 30,
-                    "answerMark": 7
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Make",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Decide",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "infinitive"
                     },
-                    "answerTime": 35,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "Help",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 30,
-                    "answerMark": 7
-                },
-                {
-                    "data": {
-                        "question": "Watch",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 35,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "Hear",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 30,
-                    "answerMark": 7
-                },
-                {
-                    "data": {
-                        "question": "Feel",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 35,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "See",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 30,
-                    "answerMark": 7
-                },
-                {
-                    "data": {
-                        "question": "Have (when used in causative constructions)",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 35,
-                    "answerMark": 8
-                },
-                {
-                    "data": {
-                        "question": "Need",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
-                    },
-                    "answerTime": 30,
-                    "answerMark": 7
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
                         "question": "Want",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "words": ["infinitive", "gerund"],
+                        "answer": "infinitive"
                     },
-                    "answerTime": 35,
-                    "answerMark": 8
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
                         "question": "Intend",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "words": ["infinitive", "gerund"],
+                        "answer": "infinitive"
                     },
-                    "answerTime": 30,
-                    "answerMark": 7
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Dare",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Hope",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "infinitive"
                     },
-                    "answerTime": 35,
-                    "answerMark": 8
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Bid (in the sense of commanding)",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Dream",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "infinitive"
                     },
-                    "answerTime": 30,
-                    "answerMark": 7
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Require",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Agree",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "infinitive"
                     },
-                    "answerTime": 35,
-                    "answerMark": 8
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Expect",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Choose",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "infinitive"
                     },
-                    "answerTime": 30,
-                    "answerMark": 7
+                    "answerTime": 10,
+                    "answerMark": 10
                 },
                 {
                     "data": {
-                        "question": "Invite",
-                        "words": ["infinitive", "bare infinitive", "gerund"],
-                        "answer": "bare infinitive"
+                        "question": "Prefer",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "infinitive"
                     },
-                    "answerTime": 35,
-                    "answerMark": 8
+                    "answerTime": 10,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Need",
+                        "words": ["infinitive", "gerund"],
+                        "answer": "infinitive"
+                    },
+                    "answerTime": 10,
+                    "answerMark": 10
                 }
             ],
-            "duration": 1395,
-            "answerTime": 30,
-            "answerMark": 8,
+            "duration": 30,
+            "answerTime": 60,
+            "answerMark": 6,
             "scoreTables": [
                 {
-                    "score": 90,
-                    "name": "Table A"
+                    "score": 200,
+                    "name": "Gold"
                 },
                 {
-                    "score": 80,
-                    "name": "Table B"
+                    "score": 180,
+                    "name": "Silver"
+                },
+                {
+                    "score": 160,
+                    "name": "Silver"
                 }
             ],
-            "name": "English infinitives"
+            "name": "Gerund or infinitive?",
+            "gameTaskCount": 20
         },
         {
             "tasks": [
