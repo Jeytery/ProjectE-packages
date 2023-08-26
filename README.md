@@ -751,7 +751,7 @@
                 },
                 {
                     "score": 140,
-                    "name": "Silver"
+                    "name": "Bronze"
                 }
             ],
             "name": "Europenean capitals",
