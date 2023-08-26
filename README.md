@@ -297,7 +297,7 @@
             "tasks": [
                 {
                     "data": {
-                        "question": "Here you see question. Answer and tap blue arrow",
+                        "question": "Here you see question. Answer and tap arrow",
                         "words": ["this is question tip", "tap on me"],
                         "answer": "tap on me"
                     },
