@@ -1056,7 +1056,7 @@
                     "name": "Silver"
                 }
             ],
-            "name": "Gerund or infinitive?",
+            "name": "English Phrases. Eng -> Ru",
             "gameTaskCount": 20
         }
         
