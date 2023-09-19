@@ -756,6 +756,309 @@
             ],
             "name": "Europenean capitals",
             "gameTaskCount": 20
+        },
+        {
+            "tasks": [
+                {
+                    "data": {
+                        "question": "Ask for",
+                        "words": ["Искать", "Просить", "Вспомнить", "Пойти"],
+                        "answer": "Просить"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Bring up",
+                        "words": ["Воспитывать", "Остановить", "Поиграть", "Повернуть"],
+                        "answer": "Воспитывать"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Call on",
+                        "words": ["Навещать", "Учить", "Пройти", "Прыгнуть"],
+                        "answer": "Навещать"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Carry out",
+                        "words": ["Выполнять", "Играть", "Уйти", "Смотреть"],
+                        "answer": "Выполнять"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Cheer up",
+                        "words": ["Ободрить", "Построить", "Отдыхать", "Забыть"],
+                        "answer": "Ободрить"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Count on",
+                        "words": ["Рассчитывать", "Уйти", "Писать", "Петь"],
+                        "answer": "Рассчитывать"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Draw in",
+                        "words": ["Вовлекать", "Встречать", "Пить", "Успокоить"],
+                        "answer": "Вовлекать"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Drive at",
+                        "words": ["Намекать", "Бежать", "Играть", "Прыгать"],
+                        "answer": "Намекать"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Find out",
+                        "words": ["Узнавать", "Бежать", "Спать", "Плавать"],
+                        "answer": "Узнавать"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Get away",
+                        "words": ["Убираться", "Бежать", "Смотреть", "Читать"],
+                        "answer": "Убираться"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Keep up",
+                        "words": ["Поддерживать", "Унизить", "Впускать", "Выпускать"],
+                        "answer": "Поддерживать"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Let down",
+                        "words": ["Унизить", "Поддерживать", "Впускать", "Выпускать"],
+                        "answer": "Унизить"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Let in",
+                        "words": ["Унизить", "Поддерживать", "Впускать", "Выпускать"],
+                        "answer": "Впускать"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Let out",
+                        "words": ["Унизить", "Поддерживать", "Впускать", "Выпускать"],
+                        "answer": "Выпускать"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Look for",
+                        "words": ["Искать", "Поддерживать", "Впускать", "Выпускать"],
+                        "answer": "Искать"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Look forward to",
+                        "words": ["Ждать с нетерпением", "Поддерживать", "Впускать", "Выпускать"],
+                        "answer": "Ждать с нетерпением"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Object to",
+                        "words": ["Возражать", "Поддерживать", "Впускать", "Выпускать"],
+                        "answer": "Возражать"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Pick up",
+                        "words": ["Поднимать", "Поддерживать", "Указывать", "Выделять"],
+                        "answer": "Поднимать"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Point out",
+                        "words": ["Указывать", "Поддерживать", "Впускать", "Выпускать"],
+                        "answer": "Указывать"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "New English word",
+                        "words": ["Новое английское слово", "Поддерживать", "Впускать", "Выпускать"],
+                        "answer": "Новое английское слово"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Put forward",
+                        "words": ["Предложить", "Надеть", "Поднять", "Выключить"],
+                        "answer": "Предложить"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Put on",
+                        "words": ["Надеть", "Предложить", "Поднять", "Выключить"],
+                        "answer": "Надеть"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Put up",
+                        "words": ["Поднять", "Предложить", "Надеть", "Выключить"],
+                        "answer": "Поднять"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Ring up",
+                        "words": ["Позвонить", "Предложить", "Поднять", "Выключить"],
+                        "answer": "Позвонить"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Shut up",
+                        "words": ["Замолчать", "Предложить", "Поднять", "Выключить"],
+                        "answer": "Замолчать"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Switch on",
+                        "words": ["Включить", "Предложить", "Поднять", "Выключить"],
+                        "answer": "Включить"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Switch off",
+                        "words": ["Выключить", "Предложить", "Поднять", "Включить"],
+                        "answer": "Выключить"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Take off",
+                        "words": ["Снять", "Предложить", "Поднять", "Выключить"],
+                        "answer": "Снять"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Try on",
+                        "words": ["Примерить", "Предложить", "Поднять", "Выключить"],
+                        "answer": "Примерить"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Turn out",
+                        "words": ["Оказаться", "Предложить", "Поднять", "Выключить"],
+                        "answer": "Оказаться"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                },
+                {
+                    "data": {
+                        "question": "Wear out",
+                        "words": ["Износить", "Предложить", "Поднять", "Выключить"],
+                        "answer": "Износить"
+                    },
+                    "answerTime": 6,
+                    "answerMark": 10
+                }
+            ],
+            "duration": 30,
+            "answerTime": 60,
+            "answerMark": 6,
+            "scoreTables": [
+                {
+                    "score": 200,
+                    "name": "Gold"
+                },
+                {
+                    "score": 180,
+                    "name": "Silver"
+                },
+                {
+                    "score": 160,
+                    "name": "Silver"
+                }
+            ],
+            "name": "Gerund or infinitive?",
+            "gameTaskCount": 20
         }
+        
     ]
 }
